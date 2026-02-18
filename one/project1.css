@@ -1,0 +1,69 @@
+.d1{
+    width: 610px;
+    height: 355px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+}
+@font-face {
+    font-family: avenir;
+    src: url(./Avenir/AvenirRegular/AvenirRegular.ttf);
+}
+.s1{
+    width: 1440px;
+    height: 483px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.h1{
+    width: 610px;
+    height: 145px;
+    font-family: avenir;
+    font-style: Heavy;
+    font-weight: 800;
+    font-style: Heavy;
+    font-size: 64px;
+    line-height: 80px;
+    letter-spacing: 0%;
+    color: #252525;
+    margin: 0;
+}
+.p{
+    width: 607px;
+    height: 108;
+    font-family: avenir;
+    font-weight: 400;
+    font-style: roman;
+    font-size: 26px;
+    line-height: 26px;
+    letter-spacing: 0%;
+    color: #252525CC;
+    margin: 0;
+}
+button{
+    width: 158px;
+    height: 54px;
+    border-radius: 16px;
+    padding: 18px 48px 18px 48px;
+    background-color: #252525;
+    color: white;
+    font-family: avenir;
+}
+.s2{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 64px;
+}
+.s2d2{
+    width: 1312px;
+    height: 592px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 16px;
+}

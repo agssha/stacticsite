@@ -1,0 +1,71 @@
+@font-face {
+    font-family: avenir;
+    src: url(./Avenir/AvenirRegular/AvenirRegular.ttf);
+}
+.s1{
+    width: 100%;
+    margin-bottom: 69px;
+}
+h1{
+    width: 531px;
+    height: 208px;
+    font-family: avenir;
+    font-weight: 800;
+    font-style: Heavy;
+    font-size: 88px;
+    line-height: 104px;
+    letter-spacing: 0%;
+    color: #252525;
+    padding-left: 64px;
+    padding-top: 64px;
+    margin: 0;
+}
+.s2{
+    width: 100%;
+
+}
+.d1{
+    width: 1312px;
+    height: 549px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 56px;
+    margin-left: 64px;
+}
+.cart{
+    width: 400px;
+    height: 549px;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    width: 400px;
+    height: 345px;
+}
+h4{
+    width: 38px;
+    height: 44px;
+    font-family: avenir;
+    font-weight: 800;
+    font-style: Heavy;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #2525258C;
+    margin: 0;
+    padding-bottom: 24px;
+}
+p{
+    width: 400px;
+    height: 132px;
+    font-family: avenir;
+    font-weight: 400;
+    font-style: Roman;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #252525CC;
+
+}
+

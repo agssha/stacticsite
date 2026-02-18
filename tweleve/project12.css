@@ -1,0 +1,139 @@
+@font-face {
+    font-family: avenir;
+    src: url(./Avenir/AvenirRegular/AvenirRegular.ttf);
+}
+*{
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+html{
+    width: 100dvw;
+    height: 100dvh;
+}
+.s1{
+    width: 1440px;
+    height: 1024px;
+    display: flex;
+    flex-direction: row;
+    margin: 64px 0 0 64px;
+}
+.d1{
+    width: 637px;
+    height: 477px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+h1{
+width: 637px;
+height: 264px;
+font-family: avenir;
+font-weight: 800;
+font-style: Heavy;
+font-size: 72px;
+line-height: 88px;
+letter-spacing: 0%;
+color: #252525;
+}
+p{
+width: 519px;
+height: 99px;
+font-family: avenir;
+font-weight: 400;
+font-style: Roman;
+font-size: 24px;
+line-height: 130%;
+letter-spacing: 0%;
+color: #252525CC;
+}
+button{
+width: 182px;
+height: 66px;
+border-radius: 36px;
+background-color: #252525;
+font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 18px;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.img{
+    position: absolute;
+    object-fit: cover;
+    
+}
+.d2{
+    width: 1210px;
+    height: 866.88232421875px;
+    position: absolute;
+}
+.wave{
+    width: 355px;
+    height: 126px;
+    margin: 27px 0 0 434px;
+}
+.spiral{
+    width: 133px;
+    height: 283.8823547363281px;
+    margin: 610px 0 0 78px;
+}
+.dawn1{
+    width: 248px;
+    height: 248px;
+    margin: 324px 0 0 532px;
+}
+.dawn2{
+    width: 257px;
+    height: 257px;
+    margin: 477px 0 0 1031px;
+}
+.im1{
+    width: 316px;
+    height: 436px;
+    margin: 3px 0 0 999px;
+    border-radius: 24px;
+}
+.im2{
+    width: 316px;
+    height: 436px;
+    border-radius: 24px;
+    margin: 218px 0 0 659px;
+}
+.im3{
+    width: 316px;
+    height: 436px;
+    border-radius: 24px;
+    margin: 460px 0 0 319px;
+}
+.d3{
+    width: 668px;
+    height: 122px;
+    display: flex;
+    flex-direction: row;
+    margin: 774px 0 0 644px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.d3 img{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    object-fit: cover;
+}
+h4{
+width: 516px;
+height: 90px;
+font-family: avenir;
+font-weight: 400;
+font-style: Roman;
+font-size: 22px;
+line-height: 150%;
+letter-spacing: 0%;
+color: #252525CC;
+margin: 0;
+}

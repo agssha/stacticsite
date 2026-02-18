@@ -1,0 +1,218 @@
+.s1{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+body{
+    width: 100%;
+}
+.logo{
+    width: 101.04px;
+    height: 101.16px;
+    padding: 64.75px 0 55.1px 64.75px;
+}
+h1{
+    width: 629px;
+    height: 240px;
+    font-family: Playfair Display;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 64px;
+    line-height: 80px;
+    letter-spacing: 0%;
+    color: #050505;
+    margin: 0;
+}
+p{
+    width: 629px;
+    height: 90px;
+    font-family: Work Sans;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: #333333;
+    margin: 0;
+}
+.b1{
+    width: 219px;
+    height: 66px;
+    border-radius: 16px;
+    font-family: Work Sans;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    background-color: #050505;
+}
+.b2{
+    width: 254px;
+    height: 66px;
+    border-radius: 16px;
+    font-family: Work Sans;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #333333;
+    border: 1px solid #333333;
+    background-color: white;
+}
+.b{
+    width: 505px;
+    height: 66px;
+    display: flex;
+    gap: 32px;
+}
+.content{
+    width: 653px;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 24px;
+    margin-left: 64px;
+}
+.c2{
+    width: 652px;
+    height: 118px;
+    border: 1px solid #111111;
+    border-radius: 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 64px;
+}
+.c2 div{
+    width: 91px;
+    height: 70px;
+}
+.c2 h4{
+    width: 91px;
+    height: 38px;
+    font-family: Work Sans;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #111111;
+    margin: 0;
+}
+.bdr1{
+    width: 480px;
+    height: 568px;
+    border: 2px solid #111111;
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 68px;
+}
+.bdr2{
+    width: 310px;
+    height: 476px;
+    border: 2px solid #111111;
+    border-radius: 40px;
+    position: absolute;
+    margin-left: 325.31px;
+    margin-top: 166.34px;
+
+}
+.image{
+    width: 480px;
+    height: 628px;
+    position: absolute;
+    margin-left: 120.76px;
+    margin-top: 90.24px;
+    border-radius: 51.83px;
+    z-index: 1;
+}
+.content1{
+    width: 717px;
+}
+.s2{
+    width: 635.31px;
+    height: 778.19px;
+}
+.img1{
+    width: 135.85px;
+    height: 135.85px;
+    position: sticky;
+    
+}
+.img2{
+    width: 75px;
+    height: 94.59px;
+    position: absolute;
+    padding-top: 159px;
+    padding-left: 24.15px;
+    z-index: 1;
+}
+.img3{
+    width: 102.74px;
+    height: 129.58px;
+    position: absolute;
+    padding-left: 344.95px;
+    padding-top: 534.03px;
+    z-index: 1;
+}
+.h{
+    width: 252px;
+    height: 53px;
+    border-radius: 16px;
+    background-color: #685FD4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 136px;
+    margin-left: 383px;
+    z-index: 2;
+    position: absolute;
+
+}
+.h h2{
+    width: 204px;
+    height: 21px;
+    font-family: Work Sans;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    margin: 0;
+    
+}
+.hh{
+    width: 256px;
+    height: 50px;
+    border-radius: 16px;
+    background-color: #685FD4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    position: absolute;
+    margin-top: 619px;
+    margin-left: 32px;
+    
+}
+.hh h2{
+    width: 208px;
+    height: 28px;
+    font-family: Work Sans;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    margin: 0;
+}

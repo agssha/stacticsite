@@ -1,15 +1,22 @@
 .s1{
     width: 100%;
+    max-width: 1440px;
     display: flex;
     flex-direction: row;
+    margin-top: 40px;
 }
+*{
+    margin: 0;
+    box-sizing: content-box;
+}
+
 body{
     width: 100%;
 }
 .logo{
     width: 101.04px;
     height: 101.16px;
-    padding: 64.75px 0 55.1px 64.75px;
+    padding: 64.75px 0 55.1px 20px;
 }
 h1{
     width: 629px;
@@ -75,7 +82,7 @@ p{
     flex-direction: column;
     justify-content: space-between;
     padding-left: 24px;
-    margin-left: 64px;
+    margin-left: 20px;
 }
 .c2{
     width: 652px;
@@ -88,7 +95,7 @@ p{
     align-items: center;
     justify-content: center;
     margin-top: 70px;
-    margin-left: 64px;
+    margin-left: 20px;
 }
 .c2 div{
     width: 91px;

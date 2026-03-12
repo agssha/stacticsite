@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: avenir;
+    src: url(./Avenir/AvenirRegular/AvenirRegular.ttf);
+}
+.s1{
+    max-width: 1440px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(172.29deg, #09212C 15.72%, #043E49 68.5%);
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+}
+img{
+object-fit: cover;
+margin-left: 397px;
+width: 924px;
+height: 924px;
+
+}
+.d1{
+    width: 724px;
+height: 518px;
+position: absolute;
+left: 40px;
+top: 143px;
+border-radius: 24px;
+background: linear-gradient(124.42deg, rgba(0, 0, 0, 0.36) 5.12%, rgba(0, 0, 0, 0.0675) 102.99%);
+backdrop-filter: blur(4px);
+padding: 40px 56px 40px 56px;
+display: flex;
+flex-direction: column-reverse;
+justify-content: space-between;
+}
+.block{
+width: 80px;
+height: 16px;
+object-fit: cover;
+padding: 0;
+margin: 0;
+}
+.d1 h1{
+    width: 612px;
+height: 144px;
+font-family: avenir;
+font-weight: 800;
+font-style: Heavy;
+font-size: 64px;
+line-height: 72px;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.d1 p{
+    width: 586px;
+height: 108px;
+font-family: avenir;
+font-weight: 400;
+font-style: Roman;
+font-size: 26px;
+line-height: 130%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.d1 button{
+    width: 182px;
+height: 66px;
+border-radius: 36px;
+background-color: #63E1E1;
+box-shadow: 0px 0px 20px 0px #63E1E140;
+font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 18px;
+letter-spacing: 0%;
+color: #000000;
+}
+.d2{
+    width: 1262px;
+height: 171px;
+position: absolute;
+left: 40px;
+top: 706px;
+border-radius: 32px;
+border-width: 1px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0) 100%);
+border: 1px solid;
+border-image-source: linear-gradient(90.99deg, rgba(255, 255, 255, 0.8) 1.2%, rgba(255, 255, 255, 0.44) 100%);
+backdrop-filter: blur(4px);
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-evenly;
+}
+.d2 div{
+    width: 231px;
+height: 123px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+.d2 img{
+    width: 24px;
+    height: 24px;
+    margin: 0;
+    padding: 0;
+}
+.d2 h2{
+    width: 122px;
+height: 33px;
+font-family: avenir;
+font-weight: 800;
+font-style: Heavy;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.d2 p{
+    width: 231px;
+height: 50px;
+font-family: avenir;
+font-weight: 400;
+font-style: Roman;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}

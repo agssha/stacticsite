@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.s1{
+    width: 100%;
+    height: 1536px;
+    
+}
+.img{
+    position: absolute;
+    object-fit: cover;
+    
+}
+.image{
+    width: 100%;
+height: 1012px;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(70%);
+}
+.d1{
+width: 637px;
+height: 327px;
+position: absolute;
+top: 343px;
+left: 364px;
+align-items: center;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+z-index: 1;
+}
+.d1 h1{
+width: 637px;
+height: 88px;
+font-family: Lato;
+font-weight: 700;
+font-style: Bold;
+font-size: 96px;
+line-height: 88px;
+letter-spacing: 0%;
+text-align: center;
+color: #FFFFFF;
+}
+.d1 p{
+    width: 549px;
+height: 93px;
+font-family: Lato;
+font-weight: 400;
+font-style: Regular;
+font-size: 26px;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: center;
+color: #FFFFFF;
+}
+.d1 button{
+    width: 175px;
+height: 66px;
+border-radius: 36px;
+background-color: #FFFFFF;
+font-family: Lato;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+line-height: 18px;
+letter-spacing: 0%;
+color: #252525;
+}
+.d2{
+    width: 100%;
+height: 524px;
+position: absolute;
+display: grid;
+grid-template-rows: 1fr;
+grid-template-columns: 1fr 1fr 1fr;
+top: 1012px;
+}
+.im{
+    width: 100%;
+    height: 524px;
+    object-fit: cover;
+    filter: brightness(80%);
+}
+h2{
+    width: 316px;
+height: 38px;
+z-index: 1;
+}
+.c{
+    position: absolute;
+    width: 33.33%;
+height: 174px;
+top: 348px;
+align-items: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+h2{
+    width: 316px;
+height: 38px;
+font-family: Lato;
+font-weight: 800;
+font-style: ExtraBold;
+font-size: 32px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFFCC;
+}
+h4{
+    width: 316px;
+height: 58px;
+font-family: Lato;
+font-weight: 300;
+font-style: Light;
+font-size: 24px;
+line-height: 110%;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.c2{
+position: absolute;
+top: 348px;
+left: 33.33%;
+}
+.c3{
+position: absolute;
+top: 348px;
+left: 66.66%;
+}

@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+.s1{
+    max-width: 1440px;
+    width: 100%;
+    padding: 30px;
+}
+.d1{
+    width: 434px;
+    height: 104px;
+    position: absolute;
+}
+.d1 h4{
+    width: 434px;
+height: 32px;
+font-family: Times;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0%;
+color: #25252573;
+}
+.d1 p{
+    width: 434px;
+height: 64px;
+font-family: Times;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0%;
+color: #252525CC;
+}
+.d2{
+    width: 637px;
+height: 614px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+text-align: center;
+margin: 167px 0 0 337px;
+position: absolute;
+z-index: 1;
+}
+.d2 h1{
+    width: 637px;
+height: 324px;
+font-family: Times;
+font-weight: 400;
+font-style: Regular;
+font-size: 112px;
+line-height: 108px;
+letter-spacing: 0%;
+text-align: center;
+color: #252525;
+}
+.d2 p{
+    width: 306px;
+height: 128px;
+font-family: Times;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+color: #252525CC;
+}
+button{
+    width: 182px;
+height: 66px;
+border-radius: 36px;
+background-color: #252525;
+font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 18px;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.img{
+    position: absolute;
+    object-fit: cover;
+}
+.ex{
+    width: 179.91451877290706px;
+height: 176.5725693377077px;
+transform: rotate(-351.78deg);
+margin: 156px 0 0 19.88px;
+}
+.im1{
+    width: 412px;
+height: 528px;
+border-top-left-radius: 206px;
+border-top-right-radius: 206px;
+margin: 333px 0  0 0;
+}
+.im2{
+    width: 412px;
+height: 528px;
+border-top-left-radius: 48%;
+border-top-right-radius: 48%;
+margin: 0 0 0 900px;
+}
+.str1{
+    width: 255px;
+height: 320px;
+margin: 143px 0 0 247px;
+z-index: 1;
+}
+.str2{
+    width: 191px;
+height: 242px;
+margin: 471px 0 0 857px;
+z-index: 1;
+}
+.party{
+    width: 174px;
+height: 173.51368713378906px;
+margin: 583px 0 0 1071px;
+}
+.d3{
+    margin: 748px 0 0 878px;
+    position: absolute;
+}
+.bg{
+    width: 446px;
+    height: 711px;
+    margin: 118px 0 0 432px;
+    opacity: 200%;
+    transform: scale(1.4);
+}
